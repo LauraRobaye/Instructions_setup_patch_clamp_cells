@@ -13,7 +13,7 @@ output:
 header-includes:
   - \usepackage{titling}
   - \pretitle{\begin{center}
-    \includegraphics[width=2in,height=2in]{Image_couverture.jpg}\LARGE\\}
+    \includegraphics[width=2in,height=2in]{https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/1#issue-1862803087}\LARGE\\}
   - \posttitle{\end{center}}
 editor_options: 
   markdown: 
@@ -33,6 +33,15 @@ setwd("~/Desktop/Doctorat/Patch_clamp_tutorial")
 library(markdown)
 library(tinytex)
 ```
+# Matériel
+
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/1#issue-1862803087
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/2#issue-1864620487
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/3#issue-1864627351
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/9#issue-1864639067
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/4#issue-1864629356
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/5#issue-1864630577
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/6#issue-1864631753
 
 ## Légende
 
@@ -214,6 +223,9 @@ Si elle s'allume à répétition, c'est peut-être le signe de la présence de p
 **REMARQUE:**\
 dès qu'on a touché une cellule avec la pipette ou qu'on a touché le fond du dish avec la pointe (on voit des débris de verre), il faut la changer.
 De même s'il y a une petite bulle ou une crasse dans la pipette, on change.
+
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/7#issue-1864632930
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/8#issue-1864638043
 
 # 4. Nettoyage du setup
 
