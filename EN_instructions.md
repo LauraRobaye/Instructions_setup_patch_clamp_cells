@@ -123,26 +123,62 @@ https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/6#iss
     Once the mercury lamp is turned on, you have to leave it turned on at least for two hours (you only shut it down when the experiment is already finished, not when you just take a small break or for lunch).
 11.  Start *ZEN* (on screen 32)). Choose the *LIVE* mode for displaying the microscope field on the screen.
 
-## 2.2. Préparartion du setup
+## 2.2. Preparing the setup
 
-1.  Remplir le bac de frigolite avec de la glace pilée (local où se trouve le frigo dans lequel on stocke la solution externe) et lui donner une forme de pente
-2.  Sortir un eppendorf de solution interne congelée et le dégeler (entre ses mains).
-3.  Vortexer l'eppendorf de solution interne puis mesurer son osmolarité (surtout utile si on a des soucis au patch pour éliminer le risque que ça soit ça qui abime les cellules)
-4.  Remplir une seringue de 1 ml de solution interne en évitant les bulles
-5.  Placer l'eppendorf contenant le reste de solution interne dans la glace (si le tube est nu, faire un petit repère au marqueur sur le capuchon pour ne pas le perdre dans la glace)
-6.  Ajouter un filtre puis l'aiguille à la seringue et la placer aiguille vers le haut sur la glace
-7.  Remplir la burette de solution externe 1) (si besoin remplir les autres burettes avec les solutions nécessaires à l'expérience) $\rightarrow$ Vérifier que la burette est fermée par la vanne à sa base avant de la remplir de solution externe
-8.  Purger le système d'entrée des solutions. Placer l'aiguille d'arrivée de la solution externe 28) dans le berlin poubelle
-9.  Visser le bouchon sur la bouteille poubelle 16 et allumer la pompe 15)
-10. Placer l'aiguille de la pompe 29) dans le berlin poubelle
-11. Ouvrir le robinet sous chaque burette puis ne laisser s'écouler que la solution de la burette située la plus à droite (on peut régler le débit d'écoulement à ce moment-là)
-12. Une fois que la burette est presque vide, switcher le robinet d'ouverture de la burette juste à gauche et ainsi de suite jusqu'à arriver à la burette la plus proche du microscope. Le but est d'avoir les tuyaux remplis de solution externe sans bulles d'air.
-13. Aller chercher le dish à patcher en culture cellulaire
-14. Placer le dish de culture 30) sur le support 17). Régler l'espacement du support si nécessaire et sécuriser le placement avec un petite boule de plasticine (attention, les deux supports bougent très facilement)
-15. Placer l'aiguille d'arrivée de la solution externe dans le dish (l'extrémité doit se situer juste en-dessous du niveau du milieu de culture pour éviter les grosses gouttes). **REMARQUE:**\
-    comme la circulation de la solution externe fonctionne, il y a de la solution qui sort par l'aiguille. Pour ne pas éclabousser tout le setup, placer un papier absorbant sous l'aiguille jusqu'à atteindre le dish
-16. Placer l'aiguille d'aspiration (sortie) dans le dish. Celle-ci doit idéalement se situer un peu au-dessus du niveau de l'aiguille d'entrée pour la solution externe. Ainsi la solution externe ne fera pas des grosses gouttes quand elle tombe (cf p5). **REMARQUES:**\
-    Il faut veiller à éloigner le plus possible l'entrée et la sortie de sorte à avoir un flux de solution externe qui irrigue au maximum le dish. Le débit conseillé pour l'entrée de solution externe est de 1 à 2 ml/min. Le réglage se fait au début de la manip à l'aide de la roulette située le long du tuyau d'arrivée de la solution externe. Idéalement, il faut toujours entendre le bruit d'aspiration de la pompe, cela évite les interférences et les mouvements de liquides trop importants dans le dish. Il faut également veiller à laisser un maximum de surface disponible dans le dish pour la micropipette. Installer l'entrée, la sortie et l'électrode de référence le plus en périphérie du dish possible. **REMARQUE:**\
-    il faut veiller à ne pas vider totalement la/les burette(s) au fil de la manip, penser à contrôler le niveau et à la/les remplir régulièrement.
-17. Idéalement il faut attendre que le milieu de culture ait été remplacé par de la solution externe (le liquide rose aura été totalement remplacé par du transparent)
-18. Placer l'électrode de référence 18) dans le bain
+1.  Fill the styrofoam box with crushed ice (in the room where the fridge in which we store the external solution is located).
+2.  De-freeze an internal solution eppendorf.
+3.  Vortex the internal solution eppendorf and measure the solution's osmolarity (for making sure it will not damage the cells).
+4.  Fill a 1 ml seringe with the internal solution without making bubbles.
+5.  Put the eppendorf with the remaining solution in the crushed ice (you can write something on the lid of the eppendorf for not loosing it).
+6.  Add a filter and then the needle to the seringe. Place it on the box by making the part with solution touching the ice to preserve is during the experiment.
+7.  Fill the burette with external solution (it has to be at room temperature to avoid damaging the cells). If needed for the experiment, fill the other burettes with the corresponding solutions $\rightarrow$ Make sure that the burettes are closed at their base without filling them to avoid leaks.
+8.  Purge the system with the solution. Start by placing the external solution arrival 28) in the trash beaker.
+9.  Screw the lid on top of the trash bottle 16) and start the pump 29).
+10. Place the pump needle 29) in the trash beaker.
+11. Open the tap under each burette and then only let the solution from the last one on the right (you can adjust the rate flow at that time if needed).
+12. Once the burette is almost empty, switch the tap of the burette just oon the left of the first one and so on until arriving to the one on the left. The aim is to have all the tubbings filled with external solution without any air bubbles.
+13. Bring the dish containing the cells to patch in the cell culture lab.
+14. Place the dish 30) in the bracket 17). Adjust the position is necessary and securize it with the modeling clay (be careful, the bracket move easily).
+15. Place the external solution arrival in the dish (the tip should be placed under the surface of culture medium in the dish to avoid big drops arriving in the dish and making everithing move).
+ **REMARK:**\
+    As the external solution circulation works, the liquid flows out of the needle. To avoid splashing the setup and making saline bridges, always put a absorbant paper under the needle while moving it between the dish and the trash beaker.
+17. Place the pump needle (exit) in the dish. Place it a tiny bit under the level of the external solution needle to avoid bubbles to fall and make everithing move (cf 5.).
+ **REMARK:**\
+    You have to make sure having as much distance as possible between the two needles in order to have a flux solution irrigating the whole dish. The recomanded debit is 1-2 ml.min^-1^. The adjustment is made at the start of the experiment with the roulette located on the last part of the tubbing. You can control if the debit is still correct by listening to the sound produced by the needle of the pump, you have to hear a constant sucking. It avoids interferences and too large liquid movements in the dish. It is also important to make sure a maximum of surface in the dish is available to move the pipette in it. Install the arrival, the exit and the reference electrode 18) on the outskirts of the dish.
+**REMARK:**\
+    It is important not to empty the burette(s) during the experiment, so you have to check the levels all along and fill them when necessary.
+19. You should wait until the culture medium is fully replaced by the external solution before starting the reccordings (the liquid in the dish is not pink anymore but transparent).
+20. At that tima do not forget to put the reference electrode 18) in the dish.
+
+**REMARK:**\
+  Over the course of the experiment it will be necessary to change the dishes (when cells will have a bad looking shape). At that time, you remove the reference electrode, the external solution entry needle (it goes in the trash beaker), you suck the external solution in the dish with the pump needle and put them in the trash beaker too $\rightarrow$ that way the flux does not have to be stop.
+
+## 2.3. Making, filling and placing of the micropipettes
+
+1.  Turn on the pipette puller with the button 46).
+2.  Choose the program on the puller and press *ENTER* 48). For us the program is the 24.
+3.  Take a capillary out of the plastic bag 44), make sure there is a tiny "thread" in it lumen.
+4.  Open the puller's lid 47).
+5.  Insert the capillary in one of the screw 50) or 54) and close it in order to keep the capillary in place without breaking it (do not force, there anti slippery material in it).
+6.  Libérer les deux supports 50) et 54) en appuyant sur les deux pièces 49) et 55) et approcher les deux supports de la pièce centrale 52) en approchant les deux tiges 51) et 53) du centre (les maintenir sinon elles repartent chacune de leur côté)
+7.  Desserrer le support contenant le capillaire et faire glisser celui-ci de sorte qu'il soit centré (les deux extrémités doivent dépasser de la même façon de chaque côté)
+8.  Serrer les deux supports sur le capillaire (ça doit le maintenir mais pas non plus l'écraser au point de l'éclater). A ce moment-là on peut lâcher les deux tiges.
+9.  Fermer le couvercle 47)
+10. Appuyer sur le bouton *PULL* 45)
+11. Une fois que les deux micropipettes sont formées, les placer sur un support adéquat de sorte que rien n'entre en contact avec la pointe.
+12. Une fois au setup, saisir une micropipette
+13. Prendre la seringue de solution interne et en faire sortir un peu pour éviter les bulles et éliminer d'éventuels résidus qui se trouveraient dans l'aiguille
+14. Insérer l'aiguille dans la micropipette le plus loin possible sans toucher la pointe (en pratique on l'insère jusqu'à l'endroit où elle commence à être étirée, on reste où le capillaire est bien cylindrique)
+15. Commencer à injecter de la solution interne sans faire de bulle et retirer doucement l'aiguille en même temps que le liquide remplis la pipette tout en continuant d'appuyer sur le piston de la seringue
+16. Remplir la pipette à environ 1/3 (maximum), il faut avoir assez de liquide pour que l'électrode touche le liquide quand la pipette est placée sur le headstage 7) (trop de solution interne mènerait à un débordement au moment de la fixation sur le headstage ce qui est mauvais pour l'appareil car cause des ponts salins et on ne veut pas ça pour le bruit ni pour le matériel)
+17. Chasser les éventuelles bulles (des bulles dans la portion cylindrique de la pipette se chassent assez facilement contrairement à de mini-bulles dans la partie étirée de la pointe) en secouant fermement la pipette (attention à ne pas toucher la pointe) ou en donnant de petits coups à l'extrémité cylindrique de la pipette
+18. Avant de placer la pipette sur le headstage (et donc de le toucher) placer les mains un court instant sur la plateforme métallique de la table du setup afin de décharger les mains d'éventuelles charges électriques
+19. Insérer la pipette dans le headstage en veillant à introduire l'électrode dans la lumière de la pipette sans plier l'électrode). Tenir le headstage avec l'autre main afin d'éviter que le micromanipulateur prenne toute la force déployée à ce moment-là
+20. Serrer la petite pièce en plexiglass pour fixer la pipette au support. Cela permet aussi de fermer hermétiquement le circuit
+21. Tourner le headstage de façon à l'approcher du dish
+
+**REMARQUE:**\
+Sur l'ampli, il y a une petite LED en-dessous de l'inscription « Overload » 42).
+Si celle-ci s'allume (en orange) il faut retirer et changer la pipette car cela signifie qu'il y a une surcharge dans l'électrode et c'est très mauvais pour l'appareil.
+Il faut surveiller cette LED tout au long de l'expérience.
+Si elle s'allume à répétition, c'est peut-être le signe de la présence de ponts salins $\rightarrow$ nettoyer le setup pour les enlever.
