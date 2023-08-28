@@ -1,4 +1,4 @@
-# Instructions_setup_patch_clamp_cells
+# FR_Instructions_setup_patch_clamp_cells
 Instruction on how to use the setup for patching cell lines at the lab
 ---
 title: "Manuel Patch clamp"
