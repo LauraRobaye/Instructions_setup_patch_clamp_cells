@@ -159,18 +159,18 @@ https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/6#iss
 2.  Choose the program on the puller and press *ENTER* 48). For us the program is the 24.
 3.  Take a capillary out of the plastic bag 44), make sure there is a tiny "thread" in it lumen.
 4.  Open the puller's lid 47).
-5.  Insert the capillary in one of the screw 50) or 54) and close it in order to keep the capillary in place without breaking it (do not force, there anti slippery material in it).
-6.  Libérer les deux supports 50) et 54) en appuyant sur les deux pièces 49) et 55) et approcher les deux supports de la pièce centrale 52) en approchant les deux tiges 51) et 53) du centre (les maintenir sinon elles repartent chacune de leur côté)
-7.  Desserrer le support contenant le capillaire et faire glisser celui-ci de sorte qu'il soit centré (les deux extrémités doivent dépasser de la même façon de chaque côté)
-8.  Serrer les deux supports sur le capillaire (ça doit le maintenir mais pas non plus l'écraser au point de l'éclater). A ce moment-là on peut lâcher les deux tiges.
-9.  Fermer le couvercle 47)
-10. Appuyer sur le bouton *PULL* 45)
-11. Une fois que les deux micropipettes sont formées, les placer sur un support adéquat de sorte que rien n'entre en contact avec la pointe.
-12. Une fois au setup, saisir une micropipette
-13. Prendre la seringue de solution interne et en faire sortir un peu pour éviter les bulles et éliminer d'éventuels résidus qui se trouveraient dans l'aiguille
-14. Insérer l'aiguille dans la micropipette le plus loin possible sans toucher la pointe (en pratique on l'insère jusqu'à l'endroit où elle commence à être étirée, on reste où le capillaire est bien cylindrique)
-15. Commencer à injecter de la solution interne sans faire de bulle et retirer doucement l'aiguille en même temps que le liquide remplis la pipette tout en continuant d'appuyer sur le piston de la seringue
-16. Remplir la pipette à environ 1/3 (maximum), il faut avoir assez de liquide pour que l'électrode touche le liquide quand la pipette est placée sur le headstage 7) (trop de solution interne mènerait à un débordement au moment de la fixation sur le headstage ce qui est mauvais pour l'appareil car cause des ponts salins et on ne veut pas ça pour le bruit ni pour le matériel)
+5.  Insert the capillary in one of the screw 50) or 54) and close it in order to keep the capillary in place without breaking it (do not force, there is non-slippery material in it).
+6.  Press the two pieces 49) and 55) to free the supports 50) and 54) and approach the two supports to the central piece 52) by approaching the two spindles 51) and 53) to the center (hold them to avoid they go back to their initial position).
+7.  Loosen the support holding the capillary and make it slide in order it is positioned in the middle of the device (the two ends of the capillary should be at the same distance from the center of the device).
+8.  Tighten the two supports on the capillary (it has to be maintain on its place but no need to crush it). At that moment you can remove your fingers from the two spindles.
+9.  Close the lid 47).
+10. Press the *PULL* button 45).
+11. Once the two micropipettes are formed, remove them from the puller and place them on an appropriate support. Make sure nothing touch the tip of them, they would be useless.
+12. When back at the setup, take a micropipette.
+13. take the internal solution seringe and let a few droplets come out of it (it prevents from having some durt and residues entering the micropipette).
+14. Insert the needle in the micropipette. You have to reach the part where it starts to shrink but without touching the tip. Stay where the capillary is still cylindrical.
+15. Start to inject the internal solution without making any bubbles and slowly remove the needle as the pipettes is filling.
+16. The micropipette should only be filled to 1/3 (maximum!). There must be enought liquid to touch the silver electrode when the pipette is fixed to the pipette holder 7). If there is too much internal solution, it will leak everywhere in the pipette holder and produce sline bridges, which is bad for the devices and the recordings.
 17. Chasser les éventuelles bulles (des bulles dans la portion cylindrique de la pipette se chassent assez facilement contrairement à de mini-bulles dans la partie étirée de la pointe) en secouant fermement la pipette (attention à ne pas toucher la pointe) ou en donnant de petits coups à l'extrémité cylindrique de la pipette
 18. Avant de placer la pipette sur le headstage (et donc de le toucher) placer les mains un court instant sur la plateforme métallique de la table du setup afin de décharger les mains d'éventuelles charges électriques
 19. Insérer la pipette dans le headstage en veillant à introduire l'électrode dans la lumière de la pipette sans plier l'électrode). Tenir le headstage avec l'autre main afin d'éviter que le micromanipulateur prenne toute la force déployée à ce moment-là
