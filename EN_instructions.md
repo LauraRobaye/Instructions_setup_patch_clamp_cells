@@ -171,14 +171,13 @@ https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/6#iss
 14. Insert the needle in the micropipette. You have to reach the part where it starts to shrink but without touching the tip. Stay where the capillary is still cylindrical.
 15. Start to inject the internal solution without making any bubbles and slowly remove the needle as the pipettes is filling.
 16. The micropipette should only be filled to 1/3 (maximum!). There must be enought liquid to touch the silver electrode when the pipette is fixed to the pipette holder 7). If there is too much internal solution, it will leak everywhere in the pipette holder and produce sline bridges, which is bad for the devices and the recordings.
-17. Chasser les éventuelles bulles (des bulles dans la portion cylindrique de la pipette se chassent assez facilement contrairement à de mini-bulles dans la partie étirée de la pointe) en secouant fermement la pipette (attention à ne pas toucher la pointe) ou en donnant de petits coups à l'extrémité cylindrique de la pipette
-18. Avant de placer la pipette sur le headstage (et donc de le toucher) placer les mains un court instant sur la plateforme métallique de la table du setup afin de décharger les mains d'éventuelles charges électriques
-19. Insérer la pipette dans le headstage en veillant à introduire l'électrode dans la lumière de la pipette sans plier l'électrode). Tenir le headstage avec l'autre main afin d'éviter que le micromanipulateur prenne toute la force déployée à ce moment-là
-20. Serrer la petite pièce en plexiglass pour fixer la pipette au support. Cela permet aussi de fermer hermétiquement le circuit
-21. Tourner le headstage de façon à l'approcher du dish
+17. Remove the bubbles if there are some by shaking vigourously the pipette while holding it by the open end or giving it tiny shocks on the open end (be careful not to touch the tip of the pipette).
+18. Before putting the pipette on the pipette holder, make sure you briefly touch the anti-vibration table to make sure you do not carry electrostatic charges to the headstage.
+19. Insert the micropipette in the pipette holder while making sure you do not blend the silver electrode. Put one of your hand on the pipette holder while placing the pipette to avoid damaging the micromanipulator.
+20. Screw the small plexiglass part to maintain the pipette in the pipette holder. This way the circuit is closed and air can not leak.
 
-**REMARQUE:**\
-Sur l'ampli, il y a une petite LED en-dessous de l'inscription « Overload » 42).
+**REMARK:**\
+There is an orange LED on the amplifyer under the *OVERLOAD* writting 42).
 Si celle-ci s'allume (en orange) il faut retirer et changer la pipette car cela signifie qu'il y a une surcharge dans l'électrode et c'est très mauvais pour l'appareil.
 Il faut surveiller cette LED tout au long de l'expérience.
 Si elle s'allume à répétition, c'est peut-être le signe de la présence de ponts salins $\rightarrow$ nettoyer le setup pour les enlever.
