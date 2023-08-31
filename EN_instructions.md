@@ -65,7 +65,7 @@ https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/6#iss
 16. Trash bottle
 17. Grab bars for the dishes
 18. Référence electrode
-19. Objec lens
+19. Object lens
 20. Switch for the microscope
 21. Button for fluorescence
 22. Button for transmission mode
@@ -178,6 +178,49 @@ https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/6#iss
 
 **REMARK:**\
 There is an orange LED on the amplifyer under the *OVERLOAD* writting 42).
-Si celle-ci s'allume (en orange) il faut retirer et changer la pipette car cela signifie qu'il y a une surcharge dans l'électrode et c'est très mauvais pour l'appareil.
-Il faut surveiller cette LED tout au long de l'expérience.
-Si elle s'allume à répétition, c'est peut-être le signe de la présence de ponts salins $\rightarrow$ nettoyer le setup pour les enlever.
+If the LED lights up, you have to remove the pipette and change it because it means there is an overload on the electrode and it it really damagefull for the device.
+Make sure you keep an eye on that LED during the course of the experiment. If it keeps lighting up, it may be a sign there are saline bridges $\rightarrow$ clean the setup to get rid of them.
+
+## 2.4. Selecting a cell to patch
+
+1.  Choose an area which the pipette can reach easily. If the cell is too close to the left ridge or too close to the external solution entry/the pump/the reference electrode, it would be too tricky or even impossible to patch. You should idealy search for a cell on the right part of the dish.
+2.  Once in an accessible area, find some cells with a good looking aspect.
+3.  Select the eGFP mode on the microscope (if the cells are tranfected with the corresponding plasmid) with buttons 26) and 27).
+4.  Turn on the fluorescence with the 21) button.
+5.  If nothing happens (you do not see cells with brighter cytoplasm tahn the others), check if the fluorescence is at a prpoper value. For that purpose, use the 23) and 24) buttons to increase or decrease the intensity.
+6.  Select a cell with the bright cytoplasm, it should appear in a brighter grey shade than the surrounding cells on the coputers's screen. If the cell is isoleated enought from the surrounding cells, select it for patching. If it is not the case, swith to visible light to make sure it is isolated and easy to patch. Idealy, HEK 293 cells have an irregular morphology: they can have a triangular or "slug" shape (they are elongated with two antennea). Try to avoid cells which are to spherical or with really tiny and thin extentions.
+ **REMARK:**\
+    Avoid letting the fluorescence on the cells for too long, it will degrade the fluorochrome. So if you want to keep the fluorescnce at correct rates for the experiments, do not turn it on for too long.
+8.  Switch back to visible mode. Press the 21) button to shut down the fluorescence.
+9.  Switch back to mode 6 with button 26) or 27).
+10.  If the intensity is not satisfying, tune it with the 23) and 24) buttons.
+
+# 3. Patch a cell
+
+1.  When a cell seem promising, place it at the center of the vield visible on the *ZEN* screen.
+2.  On *pClamp*, choose the *Membrane test* I) option, clic on *Play* and then on the *Bath* mode L).
+3.  Numerically zoom on it with the mouse 35) in order to have better view when you will approach the cell with the pipette.
+4.  Place the pointer of the mouse on the center of the cell in order to have a landmark and do not move the mouse after.
+5.  Place the pipette as close as possible to the centrer of the microscope field (on top of the object lens 19)) while still staying hight enough to aivoid touching the surface of liquid. For this approach, use the micromanipulator in hight speed mode.
+6.  Once you think the pipette is correctly placed, bring it down to make its tip touch the external solution.
+7.  Check the value of resistance for the pipette. To do so, click on the *Auto* button on the side of *Pipette offset* C) on *MultiClamp Cmdr*. If the value of resistance is between 2.5 and 5 M$\Omega$, it is optimal.
+8.  Bring the focus as hight as possible (turn the wheel in the "up" direction, towards the bottom of the Faraday cage).
+9.  Gently move the pipette in the horizontal plan to localize it in the occularies (do not move it vertically).
+10. Once you have spot it, bring it to the centrum of the field to localize it in the *ZEN* window.
+11. Passer en vitesse lente sur le micromanipulateur et mettre au point la pointe de la pipette en jouant avec la position verticale de la pipette et la vis micrométrique. Amener la pointe de la pipette à l'endroit où on a positionné la flèche de la souris.
+12. Descendre un peu le focus avec la vis macrométrique 11) en la tournant dans le sens indiqué «down » (vers soi).
+13. Descendre ensuite la pipette afin de récupérer le focus sur sa pointe
+14. Recommencer les étapes 12 et 13 jusqu'à ce que l'on voie qu'on approche des cellules mais avant de les avoir vraiment bien dans le focus.
+15. Faire le focus sur la partie la plus haute des cellules et approcher la pipette très doucement en observant l'écran de *pClamp*. Quand on touche la cellule d'intérêt, on doit observer une augmentation de la résistance de la pipette mais surtout une diminution de la trace du courant sur la partie oscilloscope. A ce moment-là on arrête de descendre.
+16. On saisit le tuyau 37) se terminant par un tip neuf (on change chaque jour) et on porte le tip à sa bouche
+17. On donne une pression négative (on aspire) de façon douce et prolongée en surveillant la résistance. Le but est d'atteindre la valeur de 1 G$\Omega$. Si la résistance commence assez rapidement à augmenter, on peut arrêter d'aspirer quand on voit qu'elle atteint les 200-300 M$\Omega$ car normalement elle va aller au 1 G$\Omega$ d'elle-même. Pour aider pendant qu'on aspire on peut sélectionner « holding » B) sur *MultiClamp cmdr* et on le descend à -60 mV. Attention qu'il vaut mieux éviter mais si on le fait il faut penser à remettre le holding à 0 mV avant de lancer un protocole.
+18. Pendant qu'on aspire ou que le G$\Omega$ seal se forme, on passe en mode « patch » M) sur *pClamp*.
+19. Quand le G$\Omega$ seal est formé, compense les capacitances sur *MultiClamp cmd* en appuyant sur « Auto » à côté de « Cp Fast » E) puis de « Cp Slow » F). La trace de courant doit alors être plate (il n'y a plus les deux petits pics des capacitances) **REMARQUE:** si le G$\Omega$ seal est difficile à obtenir, que c'est trop lent à se produire ou qu'il faut aspirer trop fort ou trop longtemps, ça ne sert à rien de s'acharner, les meilleurs G$\Omega$ seal sont ceux qui arrivent le plus rapidement
+20. Pour ouvrir la cellule en configuration whole cell, on aspire de façon brève et répetée mais un peu plus forte dans le tuyau 37) (la force peut être augmentée de succion en succion) jusqu'à ce que la trace contienne 2 pics assez grands (cf image avec *pClamp*). Pour juger que la cellule est bonne, on doit idéalement avoir une valeur de « Hold » entre 0 et -100 pA ainsi qu'une Ra \< 10 (\< 14 c'est acceptable).
+21. Passer en mode « cell » N) sur *pClamp*
+22. Sur *MultiClamp cmd*, cocher « Whole Cell » D) puis « Auto » puis décocher.
+23. Si les paramètres semblent bons, appuyer sur l'icône *Stop* K) de la fenêtre de l'oscilloscope de pClamp. Aller sur « Open protocol » G), choisir le protocole qu'on veut utiliser, le lancer puis appuyer sur la boule rouge en haut H). Quand le protocole s'exécute, il y a un rectangle bleuté qui apparait autour de la boule rouge **REMARQUE:**\
+    Si quand on lance le protocole le programme fait des siennes, on ferme *pClamp* (uniquement !!!) puis on le relance. Normalement quand il redémarre on a toujours la cellule en whole cell et ses paramètres reviennent. On peut alors relancer le protocole et ça doit fonctionner.
+24. Pendant ce temps-là, prendre note des paramètres de la cellule (Cm, Rm, Ra, Tau et Hold) O) et du numéro de l'expérience (sur la fenêtre dans laquelle on voit le protocole).
+25. Une fois le protocole terminé, on reset *MultiClamp cmdr* A), on ferme la fenêtre dans laquelle on voyait le protocole et on appuie sur l'icône *Play* J) de l'oscilloscope.
+26. Changer de pipette. Pour la retirer, repasser le micromanipulateur en vitesse élevée et la sortir verticalement. Faire pivoter le headstage vers la gauche et changer de pipette.
