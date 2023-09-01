@@ -224,3 +224,31 @@ Make sure you keep an eye on that LED during the course of the experiment. If it
 24. Pendant ce temps-là, prendre note des paramètres de la cellule (Cm, Rm, Ra, Tau et Hold) O) et du numéro de l'expérience (sur la fenêtre dans laquelle on voit le protocole).
 25. Une fois le protocole terminé, on reset *MultiClamp cmdr* A), on ferme la fenêtre dans laquelle on voyait le protocole et on appuie sur l'icône *Play* J) de l'oscilloscope.
 26. Changer de pipette. Pour la retirer, repasser le micromanipulateur en vitesse élevée et la sortir verticalement. Faire pivoter le headstage vers la gauche et changer de pipette.
+**REMARQUE:**\
+dès qu'on a touché une cellule avec la pipette ou qu'on a touché le fond du dish avec la pointe (on voit des débris de verre), il faut la changer.
+De même s'il y a une petite bulle ou une crasse dans la pipette, on change.
+
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/7#issue-1864632930
+https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/8#issue-1864638043
+
+# 4. Nettoyage du setup
+
+1.  Éteindre tous les appareils en terminant par l'ordinateur qui contient les softwares *Multiclamp cmdr* et *pClamp* SAUF la pompe 15)
+2.  Retirer son tuyau et le ranger
+3.  Retirer le tip du tuyau 37) et le jeter
+4.  Fermer la/les burette(s) 1) avec la/les vanne(s) à la/leurs base(s)
+5.  Aspirer le reste de solution externe se trouvant dans le dish puis jeter le dish de culture dans la poubelle B2 (jaune)
+6.  Remplir un berlin de rinçage d'eau déminéralisée et y tremper l'électrode de référence quelques fois puis l'essuyer avec un papier. La replacer sur la plateforme du microscope sur un papier absorbant.
+7.  Placer les aiguilles d'entrée et de sortie dans le berlin poubelle et ouvrir la roulette de réglage au maximum pour avoir le plus grand flux possible
+8.  Fermer les robinets sous la/les burette(s) et les retirer
+9.  Vider le contenu de la/les burette(s) dans l'évier (s'il y a des drogues, les vider dans la tourie à liquides spéciaux) et les rincer à l'eau MilliQ (robinet avec le collant rouge)
+10. A l'aide de la seringue remplie d'eau MilliQ (en mettre dans le berlin à eau pour que ça soit plus simple), rincer le système de robinets sous les burettes. Commencer par celle qui est plus proche du microscope pour terminer par celle qui est la plus à droite. Vider 4-5 seringues dans chaque entrée
+11. Placer l'aiguille d'entrée de la solution externe sur le papier absorbant à côté du microscope.
+12. Aspirer le reste du contenu du berlin poubelle avec la pompe puis placer l'aiguille sur le papier absorbant
+13. Éteindre la pompe
+14. Vider le contenu de la bouteille poubelle dans la tourie liquides spéciaux puis rincer la bouteille 3 fois avec de l'eau courante (verser le 1e rinçage dans la tourie à liquides spéciaux, surtout si on a utilisé des drogues).
+15. Replacer la bouteille à côté du setup sans la reboucher pour qu'elle sèche
+16. Essuyer le bouchon de la bouteille et donc les seringues fichées dedans avec un papier absorbant pour éviter le développement de moisissure.
+17. Jeter les pipettes usagées du grand berlin poubelle dans la poubelle B2 (jaune).
+18. Vider la glace dans l'évier et jeter l'eppendorf de solution externe à la poubelle
+19. Vider puis nettoyer la bouteille de solution externe, la seringue et l'aiguille pour remplir les pipettes. Les ranger à leur place. Jeter le filtre.
