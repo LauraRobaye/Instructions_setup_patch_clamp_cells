@@ -219,20 +219,20 @@ Make sure you keep an eye on that LED during the course of the experiment. If it
  **REMARK:** It the G$\Omega$ seal is difficult to reach, or too slow, if it requires to apply the negative pressure for too long, it is probably the sign that the cell is not a good candidate for the experiment so move on, change the pipette and try with another pipette. The best 1 G$\Omega$ seals are supposed to be reached really fast.
 21. To reach the whole cell configuration, apply a fast and kind of strong negative pressure on the tubbing. You will probably have to do it a few times in order to open the cell. You will know it is open when the trace on *pClamp* shows two big peaks (see on th images below).
 22. Change the mode to *"CELL"* N) on *pClamp*. At that moment you can judge the quality of the cell by looking at the *Hold* value on *pClamp*. This value should be comprised between 0 and -100 pA and the Ra value should ideally be situated between 10 to 14 M$\Omega$.
-23. Sur *MultiClamp cmd*, cocher « Whole Cell » D) puis « Auto » puis décocher.
-24. Si les paramètres semblent bons, appuyer sur l'icône *Stop* K) de la fenêtre de l'oscilloscope de pClamp. Aller sur « Open protocol » G), choisir le protocole qu'on veut utiliser, le lancer puis appuyer sur la boule rouge en haut H). Quand le protocole s'exécute, il y a un rectangle bleuté qui apparait autour de la boule rouge **REMARQUE:**\
-    Si quand on lance le protocole le programme fait des siennes, on ferme *pClamp* (uniquement !!!) puis on le relance. Normalement quand il redémarre on a toujours la cellule en whole cell et ses paramètres reviennent. On peut alors relancer le protocole et ça doit fonctionner.
-25. Pendant ce temps-là, prendre note des paramètres de la cellule (Cm, Rm, Ra, Tau et Hold) O) et du numéro de l'expérience (sur la fenêtre dans laquelle on voit le protocole).
-26. Une fois le protocole terminé, on reset *MultiClamp cmdr* A), on ferme la fenêtre dans laquelle on voyait le protocole et on appuie sur l'icône *Play* J) de l'oscilloscope.
-27. Changer de pipette. Pour la retirer, repasser le micromanipulateur en vitesse élevée et la sortir verticalement. Faire pivoter le headstage vers la gauche et changer de pipette.
-**REMARQUE:**\
-dès qu'on a touché une cellule avec la pipette ou qu'on a touché le fond du dish avec la pointe (on voit des débris de verre), il faut la changer.
-De même s'il y a une petite bulle ou une crasse dans la pipette, on change.
+23. On *MultiClamp cmdr*, select *Whole Cell* D) then *Auto* and deselect *Whole Cell*.
+24. If the parameters are good, press the *"STOP"* icon K) on *pClamp*. Go to *Open protocole* G) and choose the protocole you want to use. Apply it and press the red ball button on the top H). WHen the protocole is working and being recorded, there is a lifht blue square that appears around the red ball.
+  **REMARK:**\
+    If the program crashes when you start the protocole, close *pClamp* (only!!!!) and start it back. It should work again at that moment and the cell is still in whole cell and its parameters come back properly. At that moment restart the protocole.
+25. By the mean time, write the parameters of the cell (Cm, Rm, Ra, Tau and Hold) 0) and the number of the experiment ( it is written on the window in which you see the protocole).
+26. Once the protocole has finished running, reset *MultiClamp cmdr* A), close the window that displayed the protocole and press *"Play"* J) on *pClamp*.
+27. Now change the pipette. To remove it from the dish, change the micromanipulator speed to fast and make it move at its vertical maximum. Remove and throw the pipette in the dedicated beaker. Changer de pipette.
+**REMARK:**\
+As soon as the tip of the pipette touches a cell, the bottom of the dish or some dirt, you have to change it. It is the same if a bubble or a small piece of dirt is present inside the tip of the pipette.
 
 https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/7#issue-1864632930
 https://github.com/LauraRobaye/Instructions_setup_patch_clamp_cells/issues/8#issue-1864638043
 
-# 4. Nettoyage du setup
+# 4. Cleaning the setup
 
 1.  Éteindre tous les appareils en terminant par l'ordinateur qui contient les softwares *Multiclamp cmdr* et *pClamp* SAUF la pompe 15)
 2.  Retirer son tuyau et le ranger
